@@ -1,0 +1,99 @@
+First end point - get user info
+ 
+{
+"id": 1,
+    "name": "The Admin",
+    "username": "admin",
+    "email": "admin@somewhere.com",
+    "superpower": "Create all.",
+    "dateOfBirth": "1984-09-18",
+    "isAdmin": true
+}
+
+{
+    "id": 3,
+    "name": "The Tester",
+    "username": "tester",
+    "email": "tester@somewhere.com",
+    "superpower": "Test.",
+    "dateOfBirth": "2014-07-15",
+    "isAdmin": false
+}
+
+{
+    "id": 2,
+    "name": "The Dev",
+    "username": "dev",
+    "email": "dev@somewhere.com",
+    "superpower": "Code and debug.",
+    "dateOfBirth": "1999-10-10",
+    "isAdmin": false
+}
+
+2nd END POINT - All USER DATA
+
+ {
+        "id": 1,
+        "name": "The Admin",
+        "username": "admin",
+        "email": "admin@somewhere.com",
+        "superpower": "Create all.",
+        "dateOfBirth": "1984-09-18",
+        "isAdmin": true
+    },
+    {
+        "id": 2,
+        "name": "The Dev",
+        "username": "dev",
+        "email": "dev@somewhere.com",
+        "superpower": "Code and debug.",
+        "dateOfBirth": "1999-10-10",
+        "isAdmin": false
+    },
+    {
+        "id": 3,
+        "name": "The Tester",
+        "username": "tester",
+        "email": "tester@somewhere.com",
+        "superpower": "Test.",
+        "dateOfBirth": "2014-07-15",
+        "isAdmin": false
+    }
+]
+
+
+3RD END POINT (LOGIN)
+
+"id": 2,
+    "name": "The Dev",
+    "username": "dev",
+    "email": "dev@somewhere.com",
+    "superpower": "Code and debug.",
+    "dateOfBirth": "1999-10-10",
+    "isAdmin": false
+}
+
+{
+    "id": 1,
+    "name": "The Admin",
+    "username": "admin",
+    "email": "admin@somewhere.com",
+    "superpower": "Create all.",
+    "dateOfBirth": "1984-09-18",
+    "isAdmin": true
+}
+
+{
+    "id": 3,
+    "name": "The Tester",
+    "username": "tester",
+    "email": "tester@somewhere.com",
+    "superpower": "Test.",
+    "dateOfBirth": "2014-07-15",
+    "isAdmin": false
+}
+
+
+
+
+
