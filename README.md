@@ -7,7 +7,7 @@ Report - Testng xml file
 
 Please refer to the feature file for test scenarios.
 
-Attached functional test cases for more coverage.
+Attached functional test cases and defect list for more coverage.
 
 Attached Examples of API responses for referenece.
 
